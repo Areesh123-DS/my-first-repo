@@ -1,19 +1,10 @@
-<table>
-  <tr>
-    <td><img src="user.png" alt="Areesha Riaz" width="100" height="100"></td>
-    <td>
-      <h1>Areesha Riaz</h1>
-      <p>
-        **Email:** areeshariaz5535@gmail.com 
-        <br> 
-        **Phone:** +92 000000000    
-        <br>
-        **GitHub:** https://github.com/Areesh123-DS
-      </p>
-    </td>
-  </tr>
-</table>
+![Areesha Riaz](user.png)
 
+# Areesha Riaz
+
+**Email:** areeshariaz5535@gmail.com  
+**Phone:** +92 000000000  
+**GitHub:** https://github.com/Areesh123-DS
 ---
 
 ### Professional Summary  
