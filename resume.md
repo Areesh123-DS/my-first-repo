@@ -15,9 +15,10 @@ A motivated and multi-skilled developer with a growing expertise in programming,
 
 ### Education  
 
-**Data Science, Artificial Intelligence**  
+**Data Science**  
 Faculty College of Computing and Information Technology,The University of Punjab - Lahore,Pakistan  
-2023 – 2027
+2023 – 2027  
+
 **Current gpa:** 3.20/4.0
 
 ---
