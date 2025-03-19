@@ -4,8 +4,10 @@
     <td>
       <h1>Areesha Riaz</h1>
       <p>
-        **Email:** areeshariaz5535@gmail.com  
+        **Email:** areeshariaz5535@gmail.com 
+        <br> 
         **Phone:** +92 000000000    
+        <br>
         **GitHub:** https://github.com/Areesh123-DS
       </p>
     </td>
@@ -14,16 +16,19 @@
 
 ---
 
-## Professional Summary  
+### Professional Summary  
 A motivated and multi-skilled developer with a growing expertise in programming, design and data analytics. Adept in Python and C++ programming, Object-Oriented Programming (OOP),Data structures and algorithms (DSA) , with hands-on experience in web development and UI/UX design. Combining a creative approach to design with a technical mindset to build user-focused solutions. Currently advancing data visualization skills with Power BI, eager to transform raw data into impactful insights.
 
 ---
 
-## Education  
+### Education  
 
-**[Data Science, Artificial Intelligence]**  
-[Faculty College of Computing and Information Technology,The University of Punjab] - [Lahore,Pakistan]  
-*[2023] – [2027]*  
+**Data Science, Artificial Intelligence**  
+Faculty College of Computing and Information Technology,The University of Punjab - Lahore,Pakistan  
+2023 – 2027
+**Current gpa:** 3.20/4.0
+
+---
 
 ## Projects
 - Recently done a statictics project analyzing the impacts of social media on mental health using hypothesis testing, z-test etc.
@@ -39,11 +44,12 @@ A motivated and multi-skilled developer with a growing expertise in programming,
 - Data Structures
 - Web Development
 - Hypothesis Testing 
-- UI/UX designing  
+- Figma
+- Power BI  
 
 ---
 
-## Certifications (if any)  
+## Certifications  
 
 - Competitive Programming Competition by ICPC
 - Females Programming Competition by MLSA-FCIT
