@@ -1,5 +1,5 @@
 
-![Areesha Riaz          ](user.png)
+
 # Areesha Riaz
 ---
 
