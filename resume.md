@@ -1,10 +1,11 @@
-![Areesha Riaz](user.png)
+![Areesha Riaz]                (user.png)
 
 # Areesha Riaz
+---
 
-**Email:** areeshariaz5535@gmail.com  
-**Phone:** +92 000000000  
-**GitHub:** https://github.com/Areesh123-DS
+### **Email:** areeshariaz5535@gmail.com  
+### **Phone:** +92 000000000  
+### **GitHub:** https://github.com/Areesh123-DS
 ---
 
 ### Professional Summary  
