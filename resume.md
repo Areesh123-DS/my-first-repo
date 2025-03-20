@@ -10,7 +10,7 @@
 ---
 
 ### Professional Summary  
-A motivated and multi-skilled developer with a growing expertise in programming, design and data analytics. Adept in Python and C++ programming, Object-Oriented Programming (OOP),Data structures and algorithms (DSA) , with hands-on experience in web development and UI/UX design. Combining a creative approach to design with a technical mindset to build user-focused solutions. Currently advancing data visualization skills with Power BI, eager to transform raw data into impactful insights.
+A motivated and multi-skilled developer with a growing expertise in programming, design and data analytics. Adept in Python and C++ programming,SQL databases, Object-Oriented Programming (OOP),Data structures and algorithms (DSA) , with hands-on experience in web development and UI/UX design. Combining a creative approach to design with a technical mindset to build user-focused solutions. Currently advancing data visualization skills with Power BI, eager to transform raw data into impactful insights.
 
 ---
 
@@ -36,6 +36,7 @@ Faculty College of Computing and Information Technology,The University of Punjab
 - Programming Fundamentals
 - Object Oriented Programming
 - Data Structures
+- SQLite
 - Web Development
 - Hypothesis Testing 
 - Figma
