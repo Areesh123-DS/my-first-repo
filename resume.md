@@ -1,7 +1,7 @@
 
 
 # Areesha Riaz
-(user.png)
+###![Areesha Riaz](user.png)
 ---
 
 #### **Email:** areeshariaz5535@gmail.com  
