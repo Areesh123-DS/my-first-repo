@@ -24,7 +24,7 @@ Faculty College of Computing and Information Technology,The University of Punjab
 
 ---
 
-## Projects
+### Projects
 - Recently done a statictics project analyzing the impacts of social media on mental health using hypothesis testing, z-test etc.
 - Made a game using object-object programming.
 - A Billing system using python.
@@ -32,11 +32,11 @@ Faculty College of Computing and Information Technology,The University of Punjab
 
 ---
 
-## Skills  
+### Skills  
 - Programming Fundamentals
 - Object Oriented Programming
 - Data Structures
-- SQLite
+- Structured Query Language
 - Web Development
 - Hypothesis Testing 
 - Figma
@@ -44,7 +44,7 @@ Faculty College of Computing and Information Technology,The University of Punjab
 
 ---
 
-## Certifications  
+### Certifications  
 
 - Competitive Programming Competition by ICPC
 - Females Programming Competition by MLSA-FCIT
